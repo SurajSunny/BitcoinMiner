@@ -6,7 +6,7 @@ Erlang and Actor Model.
 In real time every coin is mined using a Random String and Nonce. Nonce is a number which which is incremented and joined to the random string; each time a sha256 in run. We used similar uproach in this project.
 
 ## Contributors
-Venkata Sai Dheeraj Naganaboina (vnaganaboina@ufl.edu)
+Venkata Sai Dheeraj Naganaboina (vnaganaboina@ufl.edu)      
 Suraj Ramadugu (surajramadugu@ufl.edu)
 
 ## Architechture
@@ -123,3 +123,4 @@ run
 
 ## References
 <a href="https://learnyousomeerlang.com/content" target="_blank">learn you some erlang</a>
+
